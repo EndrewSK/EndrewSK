@@ -46,6 +46,3 @@ _I'm 16 years old, I'm in the last year of High School and really like games of 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=endrewsk&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   
 </div>
-<br>
-<br>
-<img src="https://komarev.com/ghpvc/?username=endrewsk&color=yellow" alt="Profile views" />
