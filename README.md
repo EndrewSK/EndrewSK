@@ -13,7 +13,7 @@
 <br>
 ## - About me -
 
-_I'm 16 years old, I'm in the last year of High School and really like games of all kinds, I intend to develop a game where It become known. Currently I'm just studying and learning more and more about the programing world. I'm a person who finds it easy to learn new things and always overcoming new challenges!_
+_I'm 17 years old, I'm in the last year of High School and really like games of all kinds, I intend to develop a game where It become known. Currently I'm just studying and learning more and more about the programing world. I'm a person who finds it easy to learn new things and always overcoming new challenges!_
 <br>
 <br>
 ## - Contact -
