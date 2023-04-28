@@ -19,7 +19,7 @@ _I'm 17 years old, I'm in the last year of High School and really like games of 
 ## - Contact -
 
 <div>
-  <a href="https://instagram.com/sk.ends" target="_blank">
+  <a href="https://instagram.com/sk3nds" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   
@@ -31,7 +31,7 @@ _I'm 17 years old, I'm in the last year of High School and really like games of 
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   
-  <a href="https://www.twitter/sk_ends" target="_blank">
+  <a href="https://twitter/sk_ends" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
   </a>
   
