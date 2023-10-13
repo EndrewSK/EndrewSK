@@ -4,7 +4,7 @@
 
 • I'm part of the UNICAMP technical school, studying systems development :mortar_board:
 
-• I know little about `HTML`, `CSS`, `JavaScript` and I'm learning `Python` :books:
+• I know little about `HTML`, `CSS`, `JavaScript`, `Python`, `C#`, `NodeJS` and `MySQL` :books:
 
 • Focus in Full Stack Development for Games Applications :video_game:
 
