@@ -23,26 +23,23 @@ _I'm 18 years old, I'm in the last year of High School and really like games of 
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   
-  <a href = "mailto:endrew.s2302@gmail.com">
+  <a href = "mailto:s.endrew.oliveira@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   
   <a href="https://www.linkedin.com/in/endrewsk" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  
-  <a href="https://twitter.com/sk_ends" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
-  </a>
-  
 </div>
+
 <br>
 <br>
-<div>
-<a href="https://github.com/endrewsk">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endrewsk&layout=compact&langs_count=7&theme=dark"/>
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=endrewsk&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  
+
+<div align="center">
+  <a href="https://github.com/endrewsk">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endrewsk&layout=compact&langs_count=7&theme=dark"/>
+    
+  <br>
+    
+  <img height="175px" src="https://github-readme-stats.vercel.app/api?username=endrewsk&show_icons=true&theme=dark&count_private=true"/>
 </div>
