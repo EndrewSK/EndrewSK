@@ -1,4 +1,7 @@
-<h1> Hey! Welcome to my Github profile. :smile: </h1>
+# :warning: Important Note!  
+- :pushpin: The repositories are being updated, so they are hidden.
+
+<h2> Hey! Welcome to my Github profile. :smile: </h2>
 
 **My name's Endrew!** :v:
 
