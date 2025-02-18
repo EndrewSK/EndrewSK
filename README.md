@@ -7,7 +7,7 @@
 
 • I'm part of the UNICAMP technical school, studying systems development :mortar_board:
 
-• I know little about `HTML`, `CSS`, `JavaScript`, `Python`, `C#`, `Java`, `Kotlin`, `C++`, `NodeJS`, `Firebase` and `SQL` :books:
+• I know little about `HTML`, `CSS`, `JavaScript`, `Python`, `C#`, `Java`, `Kotlin`, `Flutter`, `C++`, `NodeJS`, `Firebase` and `SQL` :books:
 
 • Focus on Backend Development for prototyping with Arduino and other electronic platforms, in addition to databases and my desire to work with Artificial Intelligence :video_game:
 
