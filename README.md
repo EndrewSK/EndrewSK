@@ -26,7 +26,7 @@ _I'm 18 years old, I'm in the last year of High School and really like games of 
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   
-  <a href = "mailto:s.endrew.oliveira@gmail.com">
+  <a href = "mailto:s.endrew.oliveira@gmail.com?subject=Github%20Profile" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   
@@ -39,7 +39,7 @@ _I'm 18 years old, I'm in the last year of High School and really like games of 
 <br>
 
 <div align="center">
-  <a href="https://github.com/endrewsk">
+  <a href="https://github.com/endrewsk" target="_blank">
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endrewsk&layout=compact&langs_count=7&theme=dark"/>
     
   <br>
