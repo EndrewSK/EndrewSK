@@ -7,7 +7,7 @@ ___
 <h3 align="center">I'm Endrew</h1>
 
 <p align="center">
-<img src="https://i.ibb.co/TM4YBX3P/image.png" width="150" style="border-radius: 50%;" alt="Profile photo">
+<img src="https://i.ibb.co/fGXdq9RR/image.png" width="150" alt="Profile photo">
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@ ___
 
 🔹 [🤖 WhatsApp Bot](https://github.com/EndrewSK/WhatsApp-Bot) – Automation using `whiskeysockets`.
 
-🔹 [🤖 Autom](https://github.com/EndrewSK/WhatsApp-Bot) – Automation using `C/ C++` and `Arduino` or `ESP32`.
+🔹 [⚙️ Automation](https://github.com/EndrewSK/WhatsApp-Bot) – Automation using `C/ C++` and `Arduino` or `ESP32`.
 
 ---
 
