@@ -62,14 +62,12 @@ NOTE: Most, if not all, big projects can be developed using the MVVM (Model-View
 ---
 
 ### ✨ **GitHub Stats**
-<div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=endrewsk&layout=compact&langs_count=7&theme=dark"/>
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=EndrewSK&show_icons=true&theme=dark" alt="GitHub Stats"/>
-  </div>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=endrewsk&layout=compact&langs_count=7&theme=dark"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EndrewSK&show_icons=true&theme=dark" alt="GitHub Stats"/>
+</p>
 
 ---
 
