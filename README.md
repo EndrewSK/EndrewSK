@@ -17,7 +17,7 @@ ___
 ---
 
 ### 🛠️ **Technologies and Tools**
-💻 **Languages**: `JavaScript`, `Python`, `PHP`, `C++` and `C#`, `Java`, `Flutter` and `Kotlin`
+💻 **Languages**: `JavaScript`, `Python`, `PHP`, `C++`, `C#`, `Java`, `Flutter` and `Kotlin`
 
 🖥️ **Front-end**: `React.js`, `HTML`, `CSS`
 
@@ -41,7 +41,7 @@ ___
 
 🔹 [🤖 WhatsApp Bot](https://github.com/EndrewSK/WhatsApp-Bot) – Automation using `whiskeysockets`.
 
-🔹 [🤖 Autom](https://github.com/EndrewSK/WhatsApp-Bot) – Automation using `C/ C++` and `Arduino`.
+🔹 [🤖 Autom](https://github.com/EndrewSK/WhatsApp-Bot) – Automation using `C/ C++` and `Arduino` or `ESP32`.
 
 ---
 
