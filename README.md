@@ -19,29 +19,34 @@ ___
 ### 🛠️ **Technologies and Tools**
 💻 **Languages**: `JavaScript`, `Python`, `PHP`, `C++`, `C#`, `Java`, `Flutter` and `Kotlin`
 
-🖥️ **Front-end**: `React.js`, `HTML`, `CSS`
+🖥️ **Front-end**: `React.js`, `HTML` and `CSS`
 
 ⚙️ **Back-end**: `Node.js`, `Express` and `Spring Boot`
 
 🛢️ **Database**: `MySQL`, `PostgreSQL`, `MongoDB`, `SQL server` and `Firebase`
 
-📌 **Others**: `Git`, `Docker`, `WebSockets`
+📌 **Others**: `Git`, `Docker` and `WebSockets`
 
 ---
 
 ### 🚀 **Featured Projects**
-🔹 [🎯 NLW eSports](https://github.com/EndrewSK/NLW-eSports) – Simple and interactive page about games and streamers, made with `HTML` and `CSS`!
+🔹 [🎯 NLW eSports](https://github.com/EndrewSK/NLW-eSports) – Simple and interactive page about games and streamers, made with `HTML` and `CSS`.
 
-🔹 [🎯 Cine Page](https://github.com/EndrewSK/Cine-page) – Simple interactive page about cinema and tickets, made with `HTML`, `CSS` and `JavaScript`!
+🔹 [🎯 Cine Page](https://github.com/EndrewSK/Cine-page) – Simple interactive page about cinema and tickets, made with `HTML`, `CSS` and `JavaScript`.
+
+NOTE: Most, if not all, big projects can be developed using the MVVM (Model-View-ViewModel) pattern on the front-end, while the back-end can follow the microservices architecture, ensuring scalability and flexibility. For the database, options such as PostgreSQL, MySQL or MongoDB are suitable, depending on the storage needs and data structure.
 
 ### 🔮 **Future Projects**
-🔹 [📈 Financial Dashboard](https://github.com/EndrewSK/Web-Dashboard) – Real-time dashboard made with `React` and `Spring Boot`!
 
-🔹 [🚀 APIs and Servers](https://github.com/EndrewSK/) – Creating a real-time API and server using `NodeJS` and `Spring Boot`!
+🔹 [📈 Financial Dashboard](https://github.com/EndrewSK/Web-Dashboard) – Real-time dashboard made with `React` on the Front-end and `Spring Boot` or `C#` for Back-end.
+
+🔹 [🚀 APIs and Servers](https://github.com/EndrewSK/Web-services) – Creating a real-time API and server using `NodeJS` on the Front-end and `Spring Boot` for Back-end.
 
 🔹 [🤖 WhatsApp Bot](https://github.com/EndrewSK/WhatsApp-Bot) – Automation using `whiskeysockets`.
 
-🔹 [⚙️ Automation](https://github.com/EndrewSK/WhatsApp-Bot) – Automation using `C/ C++` and `Arduino` or `ESP32`.
+🔹 [⚙️ Automation](https://github.com/EndrewSK/INO-automation) – Automation using `C/ C++` and `Arduino` or `ESP32`.
+
+🔹 [🔧 System](https://github.com/EndrewSK/Control-System) – Control, management and finance system using `C#` with `.NET MAUI` and maybe `ASP.NET Core`.
 
 ---
 
@@ -57,10 +62,14 @@ ___
 ---
 
 ### ✨ **GitHub Stats**
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=endrewsk&layout=compact&langs_count=7&theme=dark"/>
-<img src="https://github-readme-stats.vercel.app/api?username=EndrewSK&show_icons=true&theme=dark" alt="GitHub Stats"/>
-</p>
+<div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=endrewsk&layout=compact&langs_count=7&theme=dark"/>
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=EndrewSK&show_icons=true&theme=dark" alt="GitHub Stats"/>
+  </div>
+</div>
 
 ---
 
