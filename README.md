@@ -1,48 +1,80 @@
-# :warning: Important Note!  
-- :pushpin: The repositories are being updated, so they are hidden.
+### ⚠️ Important note!
+#### 📌 The repositories are being updated, so new repositories will be created for them.
+___
 
-<h2> Hey! Welcome to my Github profile. :smile: </h2>
+<h3 align="center">Hello! Welcome to my Github profile 👋</h1>
 
-**My name's Endrew!** :v:
+<h3 align="center">I'm Endrew</h1>
 
-• I'm part of the UNICAMP technical school, studying systems development :mortar_board:
+<p align="center">
+<img src="https://i.ibb.co/TM4YBX3P/image.png" width="150" style="border-radius: 50%;" alt="Profile photo">
+</p>
 
-• I know little about `HTML`, `CSS`, `JavaScript`, `Python`, `C#`, `Java`, `Kotlin`, `Flutter`, `C++`, `NodeJS`, `Firebase` and `SQL` :books:
+<p align="center">
+🎮 Programmer passionate about technology and games! 🚀
+</p>
 
-• Focus on Backend Development for prototyping with Arduino and other electronic platforms, in addition to databases and my desire to work with Artificial Intelligence :video_game:
+---
 
-• Growing Developer :computer:
-<br>
-<br>
-## - About me -
+### 🛠️ **Technologies and Tools**
+💻 **Languages**: `JavaScript`, `Python`, `PHP`, `C++` and `C#`, `Java`, `Flutter` and `Kotlin`
 
-_I'm 18 years old, I'm in the last year of High School and really like games of all kinds, I intend to develop a game where It become known. Currently I'm just studying and learning more and more about the programing world. I'm a person who finds it easy to learn new things and always overcoming new challenges!_
-<br>
-<br>
-## - Contact -
+🖥️ **Front-end**: `React.js`, `HTML`, `CSS`
 
-<div>
-  <a href="https://instagram.com/sk3nds" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  
-  <a href = "mailto:s.endrew.oliveira@gmail.com?subject=Github%20Profile" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  
-  <a href="https://www.linkedin.com/in/endrewsk" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-</div>
+⚙️ **Back-end**: `Node.js`, `Express` and `Spring Boot`
 
-<br>
-<br>
+🛢️ **Database**: `MySQL`, `PostgreSQL`, `MongoDB`, `SQL server` and `Firebase`
 
-<div align="center">
-  <a href="https://github.com/endrewsk" target="_blank">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endrewsk&layout=compact&langs_count=7&theme=dark"/>
-    
-  <br>
-    
-  <img height="175px" src="https://github-readme-stats.vercel.app/api?username=endrewsk&show_icons=true&theme=dark&count_private=true"/>
-</div>
+📌 **Others**: `Git`, `Docker`, `WebSockets`
+
+---
+
+### 🚀 **Featured Projects**
+🔹 [🎯 NLW eSports](https://github.com/EndrewSK/NLW-eSports) – Simple and interactive page about games and streamers, made with `HTML` and `CSS`!
+
+🔹 [🎯 Cine Page](https://github.com/EndrewSK/Cine-page) – Simple interactive page about cinema and tickets, made with `HTML`, `CSS` and `JavaScript`!
+
+### 🔮 **Future Projects**
+🔹 [📈 Financial Dashboard](https://github.com/EndrewSK/Web-Dashboard) – Real-time dashboard made with `React` and `Spring Boot`!
+
+🔹 [🚀 APIs and Servers](https://github.com/EndrewSK/) – Creating a real-time API and server using `NodeJS` and `Spring Boot`!
+
+🔹 [🤖 WhatsApp Bot](https://github.com/EndrewSK/WhatsApp-Bot) – Automation using `whiskeysockets`.
+
+🔹 [🤖 Autom](https://github.com/EndrewSK/WhatsApp-Bot) – Automation using `C/ C++` and `Arduino`.
+
+---
+
+### 🌍 **Where did I find it?**
+📌 **LinkedIn**: [EndrewSK](https://www.linkedin.com/in/endrewsk)
+
+📌 **Twitter**: [@sk_ends](https://twitter.com/sk_ends)
+
+📌 **Instagram**: [@sk3nds](https://www.instagram.com/sk3nds/)
+
+📌 **Email**: [s.endrew.oliveira@gmail.com](mailto:s.endrew.oliveira@gmail.com)
+
+---
+
+### ✨ **GitHub Stats**
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=endrewsk&layout=compact&langs_count=7&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=EndrewSK&show_icons=true&theme=dark" alt="GitHub Stats"/>
+</p>
+
+---
+
+### 💡 **Fun Facts**
+🎮 Gamer since forever, addicted to CSGO _(CounterStrike Global Offensive)_, LoL _(League of Legends)_ and GTA V.
+
+📚 Systems Development Student.
+
+🚀 Always looking to learn something new and create innovative projects!
+
+---
+
+✨ **Thank you for visiting my profile!**
+
+🚀 If you liked the content, don't forget to give a ⭐ to the repositories! 😃
+
+🚀 If you have an idea or project and want to work with me, I'll be happy to help you make it a reality!
