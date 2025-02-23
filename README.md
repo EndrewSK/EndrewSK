@@ -38,15 +38,13 @@ NOTE: Most, if not all, big projects can be developed using the MVVM (Model-View
 
 ### 🔮 **Future Projects**
 
-🔹 [📈 Financial Dashboard](https://github.com/EndrewSK/Web-Dashboard) – Real-time dashboard made with `React` on the Front-end and `Spring Boot` or `C#` for Back-end.
-
-🔹 [🚀 APIs and Servers](https://github.com/EndrewSK/Web-services) – Creating a real-time API and server using `NodeJS` on the Front-end and `Spring Boot` for Back-end.
+🔹 [📈 Financial Dashboard](https://github.com/EndrewSK/Web-Dashboard) – Real-time dashboard made with `React` on the Front-end and `NestJS (Nodejs)` for Back-end.
 
 🔹 [🤖 WhatsApp Bot](https://github.com/EndrewSK/WhatsApp-Bot) – Automation using `whiskeysockets`.
 
 🔹 [⚙️ Automation](https://github.com/EndrewSK/INO-automation) – Automation using `C/ C++` and `Arduino` or `ESP32`.
 
-🔹 [🔧 System](https://github.com/EndrewSK/Control-System) – Control, management and finance system using `C#` with `.NET MAUI` and maybe `ASP.NET Core`.
+🔹 [🔧 System](https://github.com/EndrewSK/Control-System) – Financial control and management system using `C#` with `.NET MAUI` and maybe `ASP.NET Core` and `Spring Boot` for Back-end.
 
 ---
 
